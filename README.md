@@ -1,2 +1,1 @@
-Hi! I am Dima. I am clever. And I am the God...
-So very fast stading is my second name 
+Здесь будет показана статистика самого лучшего шоколада от кол-ва кокао 
