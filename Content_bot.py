@@ -8,7 +8,7 @@ import sqlite3
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="7516116342:AAGNe-5FKAzvbIRLtG8y2Zdgs6cmtM8CEMM")
+bot = Bot(token="")
 
 pictures = {}
 texts = {}
